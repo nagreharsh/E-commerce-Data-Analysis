@@ -14,9 +14,6 @@ The notebook walks through the following key steps:
 
 - Python
 - Pandas
-- NumPy
-- Matplotlib
-- Seaborn
 - Plotly (if used)
 - Jupyter Notebook
 
