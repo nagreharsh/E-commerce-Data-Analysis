@@ -14,7 +14,7 @@ The notebook walks through the following key steps:
 
 - Python
 - Pandas
-- Plotly (if used)
+- Plotly
 - Jupyter Notebook
 
 ## 📈 Key Insights
